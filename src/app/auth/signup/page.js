@@ -1,7 +1,7 @@
 // src/app/auth/signup/page.js
 'use client'
 import { useState } from 'react'
-import { supabase } from '../../../utils/supabase'
+import { supabase } from '@/utils/supabase'
 
 export default function SignUp() {
   const [email, setEmail] = useState('')
