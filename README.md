@@ -1,41 +1,37 @@
-<<<<<<< HEAD
-# coppr3beta
-A very early coded adaptation of Coppr 3.
-=======
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Coppr3beta
 
-## Getting Started
+A modern digital business card solution, integrating NFC technology with web profiles.
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Coppr3beta is an evolving web application that allows users to create and manage their digital business cards. It combines physical NFC cards with online profiles for a seamless networking experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Current Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Next.js 14 framework for robust frontend and API development
+- Supabase integration for backend services and authentication
+- User signup functionality with email verification
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+- Frontend: Next.js 14
+- Backend: Supabase
+- Authentication: Supabase Auth
+- Deployment: Vercel
 
-To learn more about Next.js, take a look at the following resources:
+## Future Plans
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Implement sign-in functionality
+- Create user profile management system
+- Develop NFC card management features
+- Enhance UI/UX design
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
->>>>>>> d1eaf8a (Initial commit from Create Next App)
+For more information, follow Art on Twitter: [https://x.com/intent/follow?screen_name=_artseabra](https://x.com/intent/follow?screen_name=_artseabra)
+
+Visit Art's website: [https://sn.ifth.is/art](https://sn.ifth.is/art)
